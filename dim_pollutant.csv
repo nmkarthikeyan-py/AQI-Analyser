@@ -1,0 +1,8 @@
+pollutant_id,naaqs_24h,used_in_aqi
+PM2.5,60.0,True
+PM10,100.0,True
+NO2,80.0,True
+SO2,80.0,True
+NH3,400.0,True
+OZONE,100.0,True
+CO,,False

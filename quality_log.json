@@ -1,0 +1,9 @@
+{
+  "rows_raw": 1943,
+  "bad_timestamps": 0,
+  "duplicate_rows": 0,
+  "rows_missing_values": 108,
+  "order_violations": 0,
+  "bad_coordinates": 0,
+  "rows_clean": 1835
+}

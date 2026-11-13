@@ -1,0 +1,283 @@
+station_id,station,city,state,latitude,longitude,n_pollutants,aqi,dominant,band
+ST0001,"32Bungalows, Bhilai - CECB",Bhilai,Chhattisgarh,21.194815,81.31477,6,86.48275862068965,PM2.5,Satisfactory
+ST0002,"AIIMS, Raipur - CECB",Raipur,Chhattisgarh,21.258815,81.578979,5,159.0344827586207,PM2.5,Moderate
+ST0003,"Airport Area, Indore - IMC",Indore,Madhya Pradesh,22.7289,75.8076,6,376.9767441860465,PM2.5,Very Poor
+ST0004,"Alipur, Delhi - DPCC",Delhi,Delhi,28.815329,77.15301,6,500.0,PM2.5,Severe
+ST0005,"Ambedkar Nagar, Nellore - APPCB",Nellore,Andhra Pradesh,14.438164,79.966814,6,111.24137931034483,PM2.5,Moderate
+ST0006,"Amity University, Panchgaon - IITM",Panchgaon,Haryana,28.3153,76.9143,5,466.2325581395349,PM2.5,Severe
+ST0007,"Anand Kala Kshetram, Rajamahendravaram - APPCB",Rajamahendravaram,Andhra Pradesh,16.9872867,81.7363176,5,121.48275862068965,PM2.5,Moderate
+ST0008,"Anand Vihar, Delhi - DPCC",Delhi,Delhi,28.647622,77.315809,6,500.0,PM2.5,Severe
+ST0009,"Arya Nagar, Bahadurgarh - HSPCB",Bahadurgarh,Haryana,28.6701,76.9254,6,455.48837209302326,PM2.5,Severe
+ST0010,"Ashok Vihar, Delhi - DPCC",Delhi,Delhi,28.695381,77.181665,6,500.0,PM2.5,Severe
+ST0011,"Ashta Vinayak Nagar, Hingoli - MPCB",Hingoli,Maharashtra,19.710842,77.151824,4,104.41379310344827,PM2.5,Moderate
+ST0012,"Aya Nagar, Delhi - IITM",Delhi,Delhi,28.4706914,77.1099364,4,500.0,PM2.5,Severe
+ST0013,"B.Katihalli, Hassan - KSPCB",Hassan,Karnataka,13.008556,76.125258,1,,,
+ST0014,"BTM Layout, Bengaluru - CPCB",Bengaluru,Karnataka,12.9135218,77.5950804,6,114.65517241379311,PM2.5,Moderate
+ST0015,"Badarpur, Delhi-DPCC",Delhi,Delhi,28.513305,77.32634,6,500.0,PM2.5,Severe
+ST0016,"Bandhavgar Colony, Satna - Birla Cement",Satna,Madhya Pradesh,24.58434363,80.8549414,5,83.10344827586206,PM2.5,Satisfactory
+ST0017,"Bapuji Nagar, Bengaluru - KSPCB",Bengaluru,Karnataka,12.951913,77.539784,6,84.0,PM10,Satisfactory
+ST0018,"Bapunagar, Vadodara - Nexteng Enviro",Vadodara,Gujarat,22.320153,73.216285,6,324.7906976744186,PM2.5,Very Poor
+ST0019,"Bata Chowk, Nalbari - PCBA",Nalbari,Assam,26.446912,91.439057,6,83.10344827586206,PM2.5,Satisfactory
+ST0020,"Bawana, Delhi - DPCC",Delhi,Delhi,28.7762,77.051074,6,500.0,PM2.5,Severe
+ST0021,"Bhoop Narayan Singh Colony, Madhubani - BSPCB",Madhubani,Bihar,26.336563,86.073658,6,437.83720930232556,PM2.5,Severe
+ST0022,"Bhopal Chauraha, Dewas - MPPCB",Dewas,Madhya Pradesh,22.9682591,76.064118,6,238.55172413793105,PM2.5,Poor
+ST0023,"Bir, Beed - MPCB",Beed,Maharashtra,18.988474,75.753873,4,107.82758620689656,PM2.5,Moderate
+ST0024,"Brahmagiri, Udupi - KSPCB",Udupi,Karnataka,13.34194444,74.74694444,6,71.27586206896552,PM2.5,Satisfactory
+ST0025,"Buddha Colony, Muzaffarpur - BSPCB",Muzaffarpur,Bihar,26.11442,85.39813,6,310.9767441860465,PM2.5,Very Poor
+ST0026,"Burari Crossing, Delhi - IITM",Delhi,Delhi,28.7256504,77.2011573,4,500.0,PM2.5,Severe
+ST0027,"Burari, Delhi-DPCC",Delhi,Delhi,28.769667,77.206805,6,498.4651162790698,PM2.5,Severe
+ST0028,"CBD Belapur, Belapur - MPCB",Belapur,Maharashtra,19.0243902,73.0406721,5,304.06976744186045,PM2.5,Very Poor
+ST0029,"CRRI Mathura Road, Delhi - IITM",Delhi,Delhi,28.5512005,77.2735737,4,500.0,PM2.5,Severe
+ST0030,"Cantonment Area, Delhi - DPCC",Delhi,Delhi,28.594169,77.1251,6,269.2758620689655,PM2.5,Poor
+ST0031,"Central Academy for SFS, Byrnihat - PCBA",Byrnihat,Assam,26.071318,91.87488,6,319.4186046511628,PM2.5,Very Poor
+ST0032,"Chandkheda, Ahmedabad - IITM",Ahmedabad,Gujarat,23.107969,72.574648,6,276.1034482758621,PM2.5,Poor
+ST0033,"Chandni Chowk, Delhi - IITM",Delhi,Delhi,28.656756,77.227234,6,500.0,PM2.5,Severe
+ST0034,"Charitra Van, Buxar - BSPCB",Buxar,Bihar,25.56752,83.966379,6,293.17241379310343,PM2.5,Poor
+ST0035,"Chauhan Colony, Chandrapur - MPCB",Chandrapur,Maharashtra,19.9629,79.298714,5,323.25581395348837,PM2.5,Very Poor
+ST0036,"Chhawla, Delhi-DPCC",Delhi,Delhi,28.553573,76.993845,6,494.62790697674416,PM2.5,Severe
+ST0037,"Chhoti Gwaltoli, Indore - MPPCB",Indore,Madhya Pradesh,22.431,75.5213,6,326.3255813953488,PM2.5,Very Poor
+ST0038,"Chikkaballapur Rural, Chikkaballapur - KSPCB",Chikkaballapur,Karnataka,13.428828,77.731418,6,124.89655172413794,PM2.5,Moderate
+ST0039,"Chinchpada, Ambernath - MPCB",Ambernath,Maharashtra,19.215784,73.199781,5,106.97986577181209,PM10,Moderate
+ST0040,"Chinna Bharatham Colony, Srikakulam - APPCB",Srikakulam,Andhra Pradesh,18.292191,83.897173,6,152.20689655172413,PM2.5,Moderate
+ST0041,"Chitragupta Nagar, Siwan - BSPCB",Siwan,Bihar,26.2271665,84.3570427,6,343.9767441860465,PM2.5,Very Poor
+ST0042,"Christianpatty, Nagaon - PCBA",Nagaon,Assam,26.349082,92.68449,6,104.41379310344827,PM2.5,Moderate
+ST0043,"City Center, Gwalior - MPPCB",Gwalior,Madhya Pradesh,26.203442,78.193251,6,360.8604651162791,PM2.5,Very Poor
+ST0044,"City Railway Station, Bengaluru - KSPCB",Bengaluru,Karnataka,12.9756843,77.5660749,2,,,
+ST0045,"Civic Center, Bhilai - Bhilai Steel Plant",Bhilai,Chhattisgarh,21.185571,81.343175,6,59.44827586206897,PM2.5,Satisfactory
+ST0046,"Civil Lines, Sagar - MPPCB",Sagar,Madhya Pradesh,23.838586,78.759431,6,245.3793103448276,PM2.5,Poor
+ST0047,"Collector Office, Yadgir - KSPCB",Yadgir,Karnataka,16.7602,77.1428,5,182.9310344827586,PM2.5,Moderate
+ST0048,"Collectorate, Gaya - BSPCB",Gaya,Bihar,24.7955,84.9994,4,241.9655172413793,PM2.5,Poor
+ST0049,"Commonwealth Sports Complex, Delhi - DPCC",Delhi,Delhi,28.615828,77.271992,6,500.0,PM2.5,Severe
+ST0050,"Corporation Ground, Thrissur - Kerala PCB",Thrissur,Kerala,10.5324,76.2159,6,88.17241379310344,PM2.5,Satisfactory
+ST0051,"D M Colony, Bihar Sharif - BSPCB",Bihar Sharif,Bihar,25.204762,85.51496,6,196.58620689655174,PM2.5,Moderate
+ST0052,"DFO Office Campus , Jamui - BSPCB",Jamui,Bihar,24.929349,86.230977,6,193.17241379310343,PM2.5,Moderate
+ST0053,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",Bhagalpur,Bihar,25.251013,86.989001,6,315.5813953488372,PM2.5,Very Poor
+ST0054,"DM Office_Kasipur, Samastipur - BSPCB",Samastipur,Bihar,25.859655,85.77944,6,362.3953488372093,PM2.5,Very Poor
+ST0055,"DRM Office Danapur, Patna - BSPCB",Patna,Bihar,25.586562,85.043586,6,293.17241379310343,PM2.5,Poor
+ST0056,"DTU, Delhi - CPCB",Delhi,Delhi,28.7500499,77.1112615,6,500.0,PM2.5,Severe
+ST0057,"Dada Peer, Sasaram - BSPCB",Sasaram,Bihar,24.952822,84.002396,6,71.27586206896552,PM2.5,Satisfactory
+ST0058,"Dangi Tola, Rajgir - BSPCB",Rajgir,Bihar,25.0328,85.41948,6,172.68965517241378,PM2.5,Moderate
+ST0059,"Darshan Nagar, Chhapra - BSPCB",Chhapra,Bihar,25.7808257,84.7446768,6,221.48275862068965,PM2.5,Poor
+ST0060,"Deen Dayal Nagar, Gwalior - MPPCB",Gwalior,Madhya Pradesh,26.259242,78.216432,6,437.06976744186045,PM2.5,Severe
+ST0061,"Deen Dayal Nagar, Sagar - MPPCB",Sagar,Madhya Pradesh,23.8640158,78.80289321,4,124.89655172413794,PM2.5,Moderate
+ST0062,"Deopur, Dhule - MPCB",Dhule,Maharashtra,20.918946,74.776388,5,150.83221476510067,PM10,Moderate
+ST0063,"District Court, Eluru - APPCB",Eluru,Andhra Pradesh,16.711754,81.092095,6,121.48275862068965,PM2.5,Moderate
+ST0064,"Diwator Nagar, Koppal - KSPCB",Koppal,Karnataka,15.34763,76.181767,6,71.27586206896552,PM2.5,Satisfactory
+ST0065,"Dr. Karni Singh Shooting Range, Delhi - DPCC",Delhi,Delhi,28.498571,77.26484,6,500.0,PM2.5,Severe
+ST0066,"Dumra, Sitamardhi - BSPCB",Sitamarhi,Bihar,26.568547,85.517364,6,286.34482758620686,PM2.5,Poor
+ST0067,"Dwarka-Sector 8, Delhi - DPCC",Delhi,Delhi,28.5710274,77.0719006,6,488.48837209302326,PM2.5,Severe
+ST0068,"F-Block, Sirsa - HSPCB",Sirsa,Haryana,29.5364,75.0158,6,319.4186046511628,PM2.5,Very Poor
+ST0069,"Forest Office , Kiul - BSPCB",Kiul,Bihar,25.149489,86.092345,6,381.5813953488372,PM2.5,Very Poor
+ST0070,"Forest Rest House, Manguraha - BSPCB",Manguraha,Bihar,27.308328,84.531742,6,218.0689655172414,PM2.5,Poor
+ST0071,"GIDC, Ankleshwar - GPCB",Ankleshwar,Gujarat,21.613267,73.010555,6,255.6206896551724,PM2.5,Poor
+ST0072,"GIFT City, Gandhinagar - IITM",Gandhinagar,Gujarat,23.163798,72.677768,6,138.55172413793105,PM2.5,Moderate
+ST0073,"GVM Corporation, Visakhapatnam - APPCB",Visakhapatnam,Andhra Pradesh,17.72,83.3,6,162.44827586206895,PM2.5,Moderate
+ST0074,"Gandak Colony, Motihari - BSPCB",Motihari,Bihar,26.63086,84.90051,6,386.95348837209303,PM2.5,Very Poor
+ST0075,"Gangineni Cheruvu, Chittoor - APPCB",Chittoor,Andhra Pradesh,13.20488,79.097889,6,114.65517241379311,PM2.5,Moderate
+ST0076,"General Hospital, Mandikhera(Nuh) - HSPCB",Mandikhera,Haryana,27.9002,76.9938,6,337.06976744186045,PM2.5,Very Poor
+ST0077,"Ghoga, Delhi-DPCC",Delhi,Delhi,28.818435,77.057932,6,486.1860465116279,PM2.5,Severe
+ST0078,"Ghummanhera, Delhi-DPCC",Delhi,Delhi,28.534762,76.91609,4,474.6744186046512,PM2.5,Severe
+ST0079,"Girls College, Sivasagar - PCBA",Sivasagar,Assam,26.987634,94.636574,6,52.689655172413794,PM2.5,Satisfactory
+ST0080,"Gobind Pura, Yamuna Nagar - HSPCB",Yamuna Nagar,Haryana,30.1480566,77.2893471,6,365.4651162790698,PM2.5,Very Poor
+ST0081,"Gokul Nagar, Bhiwandi - MPCB",Bhiwandi,Maharashtra,19.309073,73.057223,6,201.0,PM2.5,Poor
+ST0082,"Gole Bazar, Katni - MPPCB",Katni,Madhya Pradesh,23.50016,80.23284,6,316.3488372093023,PM2.5,Very Poor
+ST0083,"Govindh Bhavan Colony, Jabalpur - JMC",Jabalpur,Madhya Pradesh,23.163174,79.973061,6,218.0689655172414,PM2.5,Poor
+ST0084,"Govt. High School Shikarpur, Patna - BSPCB",Patna,Bihar,25.592539,85.227158,6,307.90697674418607,PM2.5,Very Poor
+ST0085,"Govt. Higher Secondary School, Milupara - CECB",Milupara,Chhattisgarh,22.1910172,83.5197009,6,78.0344827586207,PM2.5,Satisfactory
+ST0086,"Gulzarpet, Anantapur - APPCB",Anantapur,Andhra Pradesh,14.675886,77.593027,6,91.55172413793103,PM2.5,Satisfactory
+ST0087,"Gupteshwar, Jabalpur - JMC",Jabalpur,Madhya Pradesh,23.142888,79.916147,6,179.51724137931035,PM2.5,Moderate
+ST0088,"Gurdeo Nagar, Aurangabad - BSPCB",Aurangabad,Bihar,24.75746,84.366208,6,252.20689655172413,PM2.5,Poor
+ST0089,"Gyaspur, Ahmedabad - IITM",Ahmedabad,Gujarat,22.977134,72.553024,6,211.24137931034483,PM2.5,Poor
+ST0090,"H.B. Colony, Bhiwani - HSPCB",Bhiwani,Haryana,28.806223,76.141105,6,421.72093023255815,PM2.5,Severe
+ST0091,"HB Colony, Vijayawada - APPCB",Vijayawada,Andhra Pradesh,16.536107,80.594233,6,100.0,PM2.5,Satisfactory
+ST0092,"HIMUDA Complex Phase-1, Baddi - HPPCB",Baddi,Himachal Pradesh,30.943887,76.801991,6,391.5581395348837,PM2.5,Very Poor
+ST0093,"Haji Colony, Raichur - KSPCB",Raichur,Karnataka,16.208139,77.348417,6,179.51724137931035,PM2.5,Moderate
+ST0094,"Hathkhoj, Bhilai - CECB",Bhilai,Chhattisgarh,21.224231,81.40835,6,86.48275862068965,PM2.5,Satisfactory
+ST0095,"Hebbal, Bengaluru - KSPCB",Bengaluru,Karnataka,13.029152,77.585901,6,91.55172413793103,PM2.5,Satisfactory
+ST0096,"Hombegowda Nagar, Bengaluru - KSPCB",Bengaluru,Karnataka,12.938539,77.5901,6,88.17241379310344,PM2.5,Satisfactory
+ST0097,"Huda Sector, Fatehabad - HSPCB",Fatehabad,Haryana,29.503664,75.467934,6,406.3720930232558,PM2.5,Severe
+ST0098,"IGI Airport (T3), Delhi - IITM",Delhi,Delhi,28.5627763,77.1180053,4,459.3255813953488,PM2.5,Severe
+ST0099,"IGNOU_Maidan Garhi, Delhi - DPCC",Delhi,Delhi,28.493624,77.201159,6,356.1392405063291,PM10,Very Poor
+ST0100,"IGSC Planetarium Complex, Patna - BSPCB",Patna,Bihar,25.610369,85.132568,4,500.0,PM2.5,Severe
+ST0101,"IHBAS, Dilshad Garden, Delhi - CPCB",Delhi,Delhi,28.6811736,77.3025234,6,500.0,PM2.5,Severe
+ST0102,"IIPHG Lekawada, Gandhinagar - IITM",Gandhinagar,Gujarat,23.243639,72.68994,6,138.55172413793105,PM2.5,Moderate
+ST0103,"IIT Delhi, Delhi - IITM",Delhi,Delhi,28.54246,77.191651,4,500.0,PM2.5,Severe
+ST0104,"IITG, Guwahati - PCBA",Guwahati,Assam,26.2028636,91.70046436,6,42.5,SO2,Good
+ST0105,"IMD Lodhi Road, Delhi - IITM",Delhi,Delhi,28.595528,77.225749,4,460.09302325581393,PM2.5,Severe
+ST0106,"ITO, Delhi - CPCB",Delhi,Delhi,28.628624,77.24106,6,500.0,PM2.5,Severe
+ST0107,"Ibrahimpur, Vijayapura - KSPCB",Vijayapura,Karnataka,16.802639,75.722694,6,74.65517241379311,PM2.5,Satisfactory
+ST0108,"Idgah Hills, Bhopal - MPPCB",Bhopal,Madhya Pradesh,23.264759,77.381568,6,322.48837209302326,PM2.5,Very Poor
+ST0109,"Industrial Area, Hajipur - BSPCB",Hajipur,Bihar,25.697189,85.2459,6,373.90697674418607,PM2.5,Very Poor
+ST0110,"JNU, Delhi - DPCC",Delhi,Delhi,28.540721,77.168544,6,500.0,PM2.5,Severe
+ST0111,"Jahangirpuri, Delhi - DPCC",Delhi,Delhi,28.73282,77.170633,6,500.0,PM2.5,Severe
+ST0112,"Jakrama Nagar, Ongole - APPCB",Ongole,Andhra Pradesh,15.499868,80.046599,6,89.86206896551724,PM2.5,Satisfactory
+ST0113,"Jawaharlal Nehru Stadium, Delhi - DPCC",Delhi,Delhi,28.58028,77.233829,6,493.8604651162791,PM2.5,Severe
+ST0114,"Jayanagar 5th Block, Bengaluru - KSPCB",Bengaluru,Karnataka,12.920984,77.584908,6,189.75862068965517,PM2.5,Moderate
+ST0115,"Jharoda Kalan, Delhi-DPCC",Delhi,Delhi,28.645274,76.956375,6,493.8604651162791,PM2.5,Severe
+ST0116,"Jigani, Bengaluru - KSPCB",Bengaluru,Karnataka,12.7816279,77.6299145,5,218.0689655172414,PM2.5,Poor
+ST0117,"KHB Colony, Karwar - KSPCB",Karwar,Karnataka,14.816666,74.141003,3,,,
+ST0118,"Kadri, Mangalore - KSPCB",Mangalore,Karnataka,12.88925,74.853,6,111.24137931034483,PM2.5,Moderate
+ST0119,"Kalabhavan, Dharwad - KSPCB",Dharwad,Karnataka,15.459706,75.008381,6,101.0,PM2.5,Moderate
+ST0120,"Kalu Nagar, Dombivli - MPCB",Dombivli,Maharashtra,19.2268427,73.0788456,3,286.34482758620686,PM2.5,Poor
+ST0121,"Kalyana Nagara, Chikkamagaluru - KSPCB",Chikkamagaluru,Karnataka,13.328028,75.797056,6,46.666666666666664,PM2.5,Good
+ST0122,"Kamalnath Nagar, Bettiah - BSPCB",Bettiah,Bihar,26.80365,84.51954,6,346.27906976744185,PM2.5,Very Poor
+ST0123,"Karala, Delhi-DPCC",Delhi,Delhi,28.7313303,77.0402585,6,469.30232558139534,PM2.5,Severe
+ST0124,"Kareemganj, Gaya - BSPCB",Gaya,Bihar,24.792403,84.992416,6,182.9310344827586,PM2.5,Moderate
+ST0125,"Kariavattom, Thiruvananthapuram - Kerala PCB",Thiruvananthapuram,Kerala,8.5637,76.8865,6,101.66442953020135,PM10,Moderate
+ST0126,"Kasturi Nagar, Bengaluru - KSPCB",Bengaluru,Karnataka,13.003872,77.664217,6,118.06896551724138,PM2.5,Moderate
+ST0127,"Katargam, Surat - Nexteng Enviro",Surat,Gujarat,21.217779,72.834787,6,88.17241379310344,PM2.5,Satisfactory
+ST0128,"Katrap, Badlapur - MPCB",Badlapur,Maharashtra,19.16485,73.23409,5,111.24137931034483,PM2.5,Moderate
+ST0129,"Khaira, Boisar - MPCB",Boisar,Maharashtra,19.786089,72.757971,4,172.68965517241378,PM2.5,Moderate
+ST0130,"Kharahiya Basti, Araria - BSPCB",Araria,Bihar,26.146529,87.454184,6,337.06976744186045,PM2.5,Very Poor
+ST0131,"Khunmoh, Srinagar - JKPCC",Srinagar,Jammu and Kashmir,34.06313,74.96017,4,25.0,PM2.5,Good
+ST0132,"Krishak Nagar, Raipur - CECB",Raipur,Chhattisgarh,21.237755,81.705301,6,91.55172413793103,PM2.5,Satisfactory
+ST0133,"LGBI Airport, Guwahati - PCBA",Guwahati,Assam,26.10887,91.589544,6,214.6551724137931,PM2.5,Poor
+ST0134,"Lingaraj Nagar, Hubballi - KSPCB",Hubballi,Karnataka,15.3714823,75.1160168,6,74.65517241379311,PM2.5,Satisfactory
+ST0135,"Lodhi Road, Delhi - IITM",Delhi,Delhi,28.588333,77.221667,4,468.5348837209302,PM2.5,Severe
+ST0136,"Lohiyanagar, Begusarai - BSPCB",Begusarai,Bihar,25.42742023,86.13886079,6,286.34482758620686,PM2.5,Poor
+ST0137,"MD University, Rohtak - HSPCB",Rohtak,Haryana,28.52123,76.37138,5,350.1162790697674,PM2.5,Very Poor
+ST0138,"MIDC Chilkalthana, Aurangabad - MPCB",Aurangabad,Maharashtra,19.87562,75.38731,6,262.44827586206895,PM2.5,Poor
+ST0139,"MIDC Khutala, Chandrapur - MPCB",Chandrapur,Maharashtra,19.9775302,79.2337086,6,347.8139534883721,PM2.5,Very Poor
+ST0140,"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",Muzaffarpur,Bihar,26.1403345,85.3650192,6,272.6896551724138,PM2.5,Poor
+ST0141,"Maguda Nagar, Indore - IMC",Indore,Madhya Pradesh,22.7524,75.8872,5,214.6551724137931,PM2.5,Poor
+ST0142,"Maharaj Bada, Gwalior - MPPCB",Gwalior,Madhya Pradesh,26.200388,78.147714,6,391.5581395348837,PM2.5,Very Poor
+ST0143,"Mahashweta Nagar, Ujjain - MPPCB",Ujjain,Madhya Pradesh,23.1633321,75.800225,6,357.0232558139535,PM2.5,Very Poor
+ST0144,"Mahatma Basaveswar Colony, Kalaburgi - KSPCB",Kalaburagi,Karnataka,17.336318,76.847397,6,57.758620689655174,PM2.5,Satisfactory
+ST0145,"Maidan Garhi, Delhi-DPCC",Delhi,Delhi,28.475672,77.213538,6,492.3255813953488,PM2.5,Severe
+ST0146,"Major Dhyan Chand National Stadium, Delhi - DPCC",Delhi,Delhi,28.611281,77.237738,6,485.4186046511628,PM2.5,Severe
+ST0147,"Mandir Marg, Delhi - DPCC",Delhi,Delhi,28.636429,77.201067,6,496.93023255813955,PM2.5,Severe
+ST0148,"Mangala, Bilaspur - NTPC",Bilaspur,Chhattisgarh,22.08815,82.13737,4,169.27586206896552,PM2.5,Moderate
+ST0149,"Maninagar, Ahmedabad - GPCB",Ahmedabad,Gujarat,23.002657,72.591912,4,228.31034482758622,PM2.5,Poor
+ST0150,"Marhatal, Jabalpur - MPPCB",Jabalpur,Madhya Pradesh,23.168606,79.932247,6,301.7674418604651,PM2.5,Very Poor
+ST0151,"Mariam Nagar, Purnia - BSPCB",Purnia,Bihar,25.366336,87.117468,6,182.9310344827586,PM2.5,Moderate
+ST0152,"Mavdi, Rajkot - Nexteng Enviro",Rajkot,Gujarat,22.248853,70.776774,6,179.51724137931035,PM2.5,Moderate
+ST0153,"Mayaganj, Bhagalpur - BSPCB",Bhagalpur,Bihar,25.265194,87.012947,6,279.51724137931035,PM2.5,Poor
+ST0154,"Mini Secretariat, Charkhi Dadri - HSPCB",Charkhi Dadri,Haryana,28.593883,76.270653,6,379.27906976744185,PM2.5,Very Poor
+ST0155,"Mirchaibari, Katihar - BSPCB",Katihar,Bihar,25.560083,87.553265,6,165.86206896551724,PM2.5,Moderate
+ST0156,"More Chowk Waluj, Aurangabad - MPCB",Aurangabad,Maharashtra,19.8389439,75.244448,5,196.58620689655174,PM2.5,Moderate
+ST0157,"Mundka, Delhi - DPCC",Delhi,Delhi,28.684678,77.076574,6,500.0,PM2.5,Severe
+ST0158,"Municipal Corporation Office, Dharuhera -  HSPCB",Dharuhera,Haryana,28.2068,76.7997,6,383.8837209302326,PM2.5,Very Poor
+ST0159,"Muradpur, Patna - BSPCB",Patna,Bihar,25.619651,85.147382,6,330.93023255813955,PM2.5,Very Poor
+ST0160,"Murthal, Sonipat - HSPCB",Sonipat,Haryana,29.0272,77.0621,6,337.06976744186045,PM2.5,Very Poor
+ST0161,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",Muzaffarpur,Bihar,26.1209,85.3647,4,308.6744186046512,PM2.5,Very Poor
+ST0162,"NIH Narela, Delhi - DPCC",Delhi,Delhi,28.858447,77.095248,6,500.0,PM2.5,Severe
+ST0163,"NISE Gwal Pahari, Gurugram - IITM",Gurugram,Haryana,28.426243,77.160376,4,500.0,PM2.5,Severe
+ST0164,"NSIT Dwarka, Delhi - CPCB",Delhi,Delhi,28.60909,77.0325413,5,403.50632911392404,PM10,Severe
+ST0165,"NSUT Jaffarpur, Delhi - DPCC",Delhi,Delhi,28.594004,76.909423,6,500.0,PM2.5,Severe
+ST0166,"Naharlagun, Naharlagun - APSPCB",Naharlagun,Arunachal Pradesh,27.103358,93.679645,6,84.79310344827587,PM2.5,Satisfactory
+ST0167,"Najafgarh, Delhi - DPCC",Delhi,Delhi,28.570173,76.933762,5,483.8837209302326,PM2.5,Severe
+ST0168,"Nangloi, Delhi-DPCC",Delhi,Delhi,28.6835525,77.0742812,6,491.5581395348837,PM2.5,Severe
+ST0169,"Narela, Delhi - DPCC",Delhi,Delhi,28.822836,77.101981,6,490.7906976744186,PM2.5,Severe
+ST0170,"Nathu Colony, Ballabgarh - HSPCB",Ballabgarh,Haryana,28.3419248,77.319699,6,500.0,PM2.5,Severe
+ST0171,"Nawapara SECL Colony, Chhal - CECB",Chhal,Chhattisgarh,22.118125,83.140608,6,76.34482758620689,PM2.5,Satisfactory
+ST0172,"Nehru Nagar, Delhi - DPCC",Delhi,Delhi,28.56789,77.250515,6,500.0,PM2.5,Severe
+ST0173,"New DM Office, Arrah - BSPCB",Arrah,Bihar,25.5626095,84.663264,6,393.8604651162791,PM2.5,Very Poor
+ST0174,"New Industrial Town, Faridabad - HSPCB",Faridabad,Haryana,28.39072,77.30059,6,479.27906976744185,PM2.5,Severe
+ST0175,"North Campus, DU, Delhi - IITM",Delhi,Delhi,28.689924,77.214261,4,500.0,PM2.5,Severe
+ST0176,"OP Jindal Industrial Park, Tumidih - CECB",Tumidih,Chhattisgarh,22.06631475,83.33820077,6,104.41379310344827,PM2.5,Moderate
+ST0177,"OP Jindal School, Kunjemura - CECB",Kunjemura,Chhattisgarh,22.12665,83.483212,6,79.0,PM10,Satisfactory
+ST0178,"Okhla Phase-2, Delhi - DPCC",Delhi,Delhi,28.530785,77.271255,6,500.0,PM2.5,Severe
+ST0179,"Old MIDC, Jalna - MPCB",Jalna,Maharashtra,19.854616,75.905894,3,353.95348837209303,PM2.5,Very Poor
+ST0180,"Pan Bazaar, Guwahati - PCBA",Guwahati,Assam,26.1875,91.744194,6,78.64102564102564,SO2,Satisfactory
+ST0181,"Panchal Nagar, Gadag - KSPCB",Gadag,Karnataka,15.411456,75.638133,6,141.9655172413793,PM2.5,Moderate
+ST0182,"Paryavaran Parisar, Bhopal - MPPCB",Bhopal,Madhya Pradesh,23.210494,77.425409,6,393.8604651162791,PM2.5,Very Poor
+ST0183,"Patparganj, Delhi - DPCC",Delhi,Delhi,28.623763,77.287209,6,500.0,PM2.5,Severe
+ST0184,"Patti Mehar, Ambala - HSPCB",Ambala,Haryana,30.379589,76.778328,6,307.90697674418607,PM2.5,Very Poor
+ST0185,"Peenya, Bengaluru - CPCB",Bengaluru,Karnataka,13.0270199,77.494094,5,111.24137931034483,PM2.5,Moderate
+ST0186,"Phase-1 GIDC, Vapi - GPCB",Vapi,Gujarat,20.362421,72.918013,6,201.0,PM2.5,Poor
+ST0187,"Phase-4 GIDC, Vatva - GPCB",Vatva,Gujarat,22.969611,72.6435,6,238.55172413793105,PM2.5,Poor
+ST0188,"Plammoodu, Thiruvananthapuram - Kerala PCB",Thiruvananthapuram,Kerala,8.5149093,76.9435879,6,54.37931034482759,PM2.5,Satisfactory
+ST0189,"Police Line, Saharsa - BSPCB",Saharsa,Bihar,25.892357,86.590325,6,116.28187919463087,PM10,Moderate
+ST0190,"Police Lines, Jind - HSPCB",Jind,Haryana,29.307814,76.337619,6,420.95348837209303,PM2.5,Severe
+ST0191,"Prabhat Colony, Jalgaon - MPCB",Jalgaon,Maharashtra,21.001264,75.565602,5,314.8139534883721,PM2.5,Very Poor
+ST0192,"Punjabi Bagh, Delhi - DPCC",Delhi,Delhi,28.674045,77.131023,6,500.0,PM2.5,Severe
+ST0193,"Pusa, Delhi - DPCC",Delhi,Delhi,28.636818,77.173597,6,484.65116279069764,PM2.5,Severe
+ST0194,"Pusa, Delhi - IITM",Delhi,Delhi,28.63611,77.173332,4,500.0,PM2.5,Severe
+ST0195,"R K Puram, Delhi - DPCC",Delhi,Delhi,28.563262,77.186937,6,500.0,PM2.5,Severe
+ST0196,"Rachnakar Colony, Aurangabad - MPCB",Aurangabad,Maharashtra,19.863756,75.321188,5,221.48275862068965,PM2.5,Poor
+ST0197,"Raikhad, Ahmedabad - IITM",Ahmedabad,Gujarat,23.020509,72.579261,6,231.72413793103448,PM2.5,Poor
+ST0198,"Railway Colony, Guwahati - PCBA",Guwahati,Assam,26.181742,91.78063,5,308.6744186046512,PM2.5,Very Poor
+ST0199,"Rajbagh, Srinagar - JKPCC",Srinagar,Jammu and Kashmir,34.066206,74.81982,5,23.75,NO2,Good
+ST0200,"Rajbansi Nagar, Patna - BSPCB",Patna,Bihar,25.599486,85.113666,6,343.2093023255814,PM2.5,Very Poor
+ST0201,"Rajendra Nagar North, Guntur - APPCB",Guntur,Andhra Pradesh,16.316553,80.413302,6,141.9655172413793,PM2.5,Moderate
+ST0202,"Rajiv Gandhi Park, Vijayawada - APPCB",Vijayawada,Andhra Pradesh,16.509717,80.612222,6,93.24137931034483,PM2.5,Satisfactory
+ST0203,"Rajiv Nagar, Vijayawada - APPCB",Vijayawada,Andhra Pradesh,16.554731,80.64911,6,86.48275862068965,PM2.5,Satisfactory
+ST0204,"Rakhial, Ahmedabad - IITM",Ahmedabad,Gujarat,23.016834,72.625775,6,326.3255813953488,PM2.5,Very Poor
+ST0205,"Ramdaspeth, Akola - MPCB",Akola,Maharashtra,20.719516,77.000253,6,98.0,PM10,Satisfactory
+ST0206,"Rampur, Korba - CECB",Korba,Chhattisgarh,22.368195,82.746431,6,54.37931034482759,PM2.5,Satisfactory
+ST0207,"Ramteerth Nagar, Belgaum - KSPCB",Belgaum,Karnataka,15.888653,74.541751,6,50.0,PM2.5,Good
+ST0208,"Regional Park, Indore - IMC",Indore,Madhya Pradesh,22.678,75.8559,1,,,
+ST0209,"Residency Area, Indore - IMC",Indore,Madhya Pradesh,22.7084,75.8815,6,241.9655172413793,PM2.5,Poor
+ST0210,"Rishi Nagar, Kaithal - HSPCB",Kaithal,Haryana,29.8006,76.4155,6,352.4186046511628,PM2.5,Very Poor
+ST0211,"Rohini, Delhi - DPCC",Delhi,Delhi,28.732528,77.11992,6,500.0,PM2.5,Severe
+ST0212,"SAC ISRO Bopal, Ahmedabad - IITM",Ahmedabad,Gujarat,23.041137,72.456691,4,338.6046511627907,PM2.5,Very Poor
+ST0213,"SAC ISRO Satellite, Ahmedabad - IITM",Ahmedabad,Gujarat,23.023389,72.515201,6,101.0,PM2.5,Moderate
+ST0214,"SDM Office_Khagra, Kishanganj - BSPCB",Kishanganj,Bihar,26.0881305,87.93840336,6,302.5348837209302,PM2.5,Very Poor
+ST0215,"SFTI Kusdihra, Gaya - BSPCB",Gaya,Bihar,24.762518,84.982348,6,165.86206896551724,PM2.5,Moderate
+ST0216,"SVPI Airport Hansol, Ahmedabad - IITM",Ahmedabad,Gujarat,23.076793,72.627874,5,193.17241379310343,PM2.5,Moderate
+ST0217,"Sadanand Nagar, Mehsana - Nexteng Enviro",Mehsana,Gujarat,23.59315,72.372792,6,204.41379310344828,PM2.5,Poor
+ST0218,"Sahilara, Maihar - KJS Cements",Maihar,Madhya Pradesh,24.2613009,80.7231783,4,62.827586206896555,PM2.5,Satisfactory
+ST0219,"Samanpura, Patna - BSPCB",Patna,Bihar,25.596727,85.085624,6,152.20689655172413,PM2.5,Moderate
+ST0220,"Samrat Ashok Nagar, Gopalganj-BSPCB",Gopalganj,Bihar,26.4690863,84.4480745,6,307.90697674418607,PM2.5,Very Poor
+ST0221,"Sanegurava Halli, Bengaluru - KSPCB",Bengaluru,Karnataka,12.990328,77.5431385,3,60.0,PM10,Satisfactory
+ST0222,"Sardar Patel Nagar, Dhanbad - JSPCB",Dhanbad,Jharkhand,23.80569,86.44268,2,,,
+ST0223,"Science Center, Surat - SMC",Surat,Gujarat,21.170046,72.795405,4,172.68965517241378,PM2.5,Moderate
+ST0224,"Secretariat, Amaravati - APPCB",Amaravati,Andhra Pradesh,16.5150833,80.5181667,6,106.31543624161074,PM10,Moderate
+ST0225,"Sector 11, Faridabad - HSPCB",Faridabad,Haryana,28.376058,77.315741,6,444.74418604651163,PM2.5,Severe
+ST0226,"Sector 22, Chandigarh - CPCC",Chandigarh,Chandigarh,30.735567,76.775714,6,100.0,PM2.5,Satisfactory
+ST0227,"Sector 30, Faridabad - HSPCB",Faridabad,Haryana,28.4417,77.3217,6,404.06976744186045,PM2.5,Severe
+ST0228,"Sector-10, Gandhinagar - GPCB",Gandhinagar,Gujarat,23.221714,72.654328,6,318.6511627906977,PM2.5,Very Poor
+ST0229,"Sector-12, Karnal - HSPCB",Karnal,Haryana,29.6953,77.0027,6,312.51162790697674,PM2.5,Very Poor
+ST0230,"Sector-18, Panipat - HSPCB",Panipat,Haryana,29.432304,76.972765,6,306.3720930232558,PM2.5,Very Poor
+ST0231,"Sector-2 IMT, Manesar - HSPCB",Manesar,Haryana,28.360699,76.93609,6,470.83720930232556,PM2.5,Severe
+ST0232,"Sector-2 Industrial Area, Pithampur - MPPCB",Pithampur,Madhya Pradesh,22.624758,75.675238,6,374.6744186046512,PM2.5,Very Poor
+ST0233,"Sector-25, Chandigarh - CPCC",Chandigarh,Chandigarh,30.751462,76.762879,6,265.8620689655172,PM2.5,Poor
+ST0234,"Sector-51, Gurugram - HSPCB",Gurugram,Haryana,28.4227,77.0667,6,458.5581395348837,PM2.5,Severe
+ST0235,"Sector-53, Chandigarh - CPCC",Chandigarh,Chandigarh,30.719859,76.738637,6,78.0344827586207,PM2.5,Satisfactory
+ST0236,"Sector-6, Panchkula - HSPCB",Panchkula,Haryana,30.7057778,76.8531805555555,4,231.72413793103448,PM2.5,Poor
+ST0237,"Sector-7, Kurukshetra - HSPCB",Kurukshetra,Haryana,29.966942,76.875879,6,327.86046511627904,PM2.5,Very Poor
+ST0238,"Sector-D Industrial Area, Mandideep - MPPCB",Mandideep,Madhya Pradesh,23.10844,77.511428,6,401.0,PM2.5,Severe
+ST0239,"Shadipur, Delhi - CPCB",Delhi,Delhi,28.6514781,77.1473105,6,500.0,PM2.5,Severe
+ST0240,"Shasthri Nagar, Ratlam - IPCA Lab",Ratlam,Madhya Pradesh,23.331731,75.045981,4,204.41379310344828,PM2.5,Poor
+ST0241,"Shastri Nagar, Narnaul - HSPCB",Narnaul,Haryana,28.060249,76.113115,6,363.93023255813955,PM2.5,Very Poor
+ST0242,"Shivneri Colony, Amravati - MPCB",Amravati,Maharashtra,20.9402359,77.7895248,4,94.93103448275862,PM2.5,Satisfactory
+ST0243,"Shri Shivaji Science College, Amravati - MPCB",Amravati,Maharashtra,20.939198,77.765701,3,193.17241379310343,PM2.5,Moderate
+ST0244,"Shrivastav Colony, Damoh - MPPCB",Damoh,Madhya Pradesh,23.81748678,79.446246,4,89.86206896551724,PM2.5,Satisfactory
+ST0245,"Shyam Nagar, Palwal - HSPCB",Palwal,Haryana,28.1485564,77.3320667,6,176.744966442953,PM10,Moderate
+ST0246,"Silk Board, Bengaluru - KSPCB",Bengaluru,Karnataka,12.917348,77.622813,5,176.10344827586206,PM2.5,Moderate
+ST0247,"Siltara Phase-II, Raipur - CECB",Raipur,Chhattisgarh,21.371751,81.664929,5,83.10344827586206,PM2.5,Satisfactory
+ST0248,"Sirifort, Delhi - CPCB",Delhi,Delhi,28.5504249,77.2159377,6,500.0,PM2.5,Severe
+ST0249,"Sita Rama Nagar, Kurnool - APPCB",Kurnool,Andhra Pradesh,15.83411,78.028546,6,141.9655172413793,PM2.5,Moderate
+ST0250,"Skara Yokma, Leh - LPCC",Leh,Ladakh,34.147096,77.55709,3,28.0,PM10,Good
+ST0251,"Sonia Vihar, Delhi - DPCC",Delhi,Delhi,28.710508,77.249485,6,500.0,PM2.5,Severe
+ST0252,"Sri Aurobindo Marg, Delhi - DPCC",Delhi,Delhi,28.531346,77.190156,6,500.0,PM2.5,Severe
+ST0253,"Srinivas Nagar Colony, Machilipatnam - APPCB",Machilipatnam,Andhra Pradesh,16.186555,81.13219,6,86.48275862068965,PM2.5,Satisfactory
+ST0254,"Stuart Hill, Madikeri - KSPCB",Madikeri,Karnataka,12.415911,75.73505,6,78.0344827586207,PM2.5,Satisfactory
+ST0255,"Suhagi, Jabalpur - JMC",Jabalpur,Madhya Pradesh,23.218135,79.95777,6,221.48275862068965,PM2.5,Poor
+ST0256,"T T Nagar, Bhopal - MPPCB",Bhopal,Madhya Pradesh,23.233584,77.400574,6,336.30232558139534,PM2.5,Very Poor
+ST0257,"Talkatora Garden, Delhi - DPCC",Delhi,Delhi,28.62181,77.1944633,6,500.0,PM2.5,Severe
+ST0258,"Tamaka Ind. Area, Kolar - KSPCB",Kolar,Karnataka,13.1276288,78.1570122,1,,,
+ST0259,"Tarakpur, Ahmednagar - MPCB",Ahmednagar,Maharashtra,19.10122,74.73339,6,141.9655172413793,PM2.5,Moderate
+ST0260,"Tarapur, Silchar - PCBA",Silchar,Assam,24.82827,92.79525,6,57.758620689655174,PM2.5,Satisfactory
+ST0261,"Tata Stadium, Jorapokhar - JSPCB",Jorapokhar,Jharkhand,23.707909,86.41467,6,104.41379310344827,PM2.5,Moderate
+ST0262,"Teri Gram, Gurugram - HSPCB",Gurugram,Haryana,28.4275,77.1465,6,500.0,PM2.5,Severe
+ST0263,"Thavakkara, Kannur - Kerala PCB",Kannur,Kerala,11.875,75.3732,6,121.48275862068965,PM2.5,Moderate
+ST0264,"Tikri Kalan, Delhi-DPCC",Delhi,Delhi,28.67518,76.980506,6,500.0,PM2.5,Severe
+ST0265,"Tilak Nagar, Kalyan-MPCB",Kalyan,Maharashtra,19.247433,73.120761,4,182.9310344827586,PM2.5,Moderate
+ST0266,"Toll Gate, Tirumala - APPCB",Tirumala,Andhra Pradesh,13.67,79.35,6,89.86206896551724,PM2.5,Satisfactory
+ST0267,"Town Hall - Lal Bagh, Darbhanga - BSPCB",Darbhanga,Bihar,26.112777,85.902825,6,328.62790697674416,PM2.5,Very Poor
+ST0268,"Town Hall, Munger - BSPCB",Munger,Bihar,25.376776,86.471523,6,102.99328859060402,PM10,Moderate
+ST0269,"Udyogamandal, Eloor - Kerala PCB",Eloor,Kerala,10.073232,76.302765,6,72.9655172413793,PM2.5,Satisfactory
+ST0270,"Urban, Chamarajanagar - KSPCB",Chamarajanagar,Karnataka,11.55358,76.55521,6,54.37931034482759,PM2.5,Satisfactory
+ST0271,"Urja Nagar, Korba - CECB",Korba,Chhattisgarh,22.348441,82.549611,6,78.0344827586207,PM2.5,Satisfactory
+ST0272,"Uttam Nagar, Delhi-DPCC",Delhi,Delhi,28.6375265,77.0571176,6,486.1860465116279,PM2.5,Severe
+ST0273,"Vaikuntapuram, Tirupati - APPCB",Tirupati,Andhra Pradesh,13.615387,79.40923,6,84.79310344827587,PM2.5,Satisfactory
+ST0274,"Vasundhara Enclave, Delhi - DPCC",Delhi,Delhi,28.603699,77.321644,6,463.93023255813955,PM2.5,Severe
+ST0275,"Vidayagiri, Bagalkot - KSPCB",Bagalkot,Karnataka,16.172806,75.659694,6,59.44827586206897,PM2.5,Satisfactory
+ST0276,"Vidhyanagar, Bhavnagar - Nexteng Enviro",Bhavnagar,Gujarat,21.755417,72.139056,6,340.90697674418607,PM2.5,Very Poor
+ST0277,"Vijay Nagar, Ramanagara - KSPCB",Ramanagara,Karnataka,12.733409,77.298051,4,131.72413793103448,PM2.5,Moderate
+ST0278,"Vikas Sadan, Gurugram - HSPCB",Gurugram,Haryana,28.4501238,77.0263051,5,404.06976744186045,PM2.5,Severe
+ST0279,"Vinoba Nagara, Shivamogga - KSPCB",Shivamogga,Karnataka,13.94,75.555917,6,57.758620689655174,PM2.5,Satisfactory
+ST0280,"Vivek Vihar, Delhi - DPCC",Delhi,Delhi,28.672342,77.31526,6,500.0,PM2.5,Severe
+ST0281,"Wazirpur, Delhi - DPCC",Delhi,Delhi,28.699793,77.165453,6,500.0,PM2.5,Severe
+ST0282,"Yerramukkapalli, Kadapa - APPCB",Kadapa,Andhra Pradesh,14.465052,78.824187,6,131.72413793103448,PM2.5,Moderate
